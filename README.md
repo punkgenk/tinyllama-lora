@@ -50,9 +50,9 @@ https://huggingface.co/datasets/databricks/databricks-dolly-15k
 
 ## Author
 
-Kelompok [Nomor Kelompok]
+Kelompok 9
 
 Anggota:
 
-1. [Nama Anggota 1]
-2. [Nama Anggota 2]
+1. Khusnia Fitri - 1203230030
+2. Muhammad Fajri Dwi Prasetya Subandi - 1203230076
